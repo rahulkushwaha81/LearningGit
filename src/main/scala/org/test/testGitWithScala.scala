@@ -4,7 +4,7 @@ object testGitWithScala {
 
   def main(args :Array[String]) :Unit = {
 
-    println("my test")
+    println("my test 3rd changes")
   }
 
 }
